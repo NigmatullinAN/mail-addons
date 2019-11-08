@@ -5,6 +5,6 @@ By default, odoo displays under partner form only its own messages. The module s
 
 Maintainers
 -----------
-This module is not maintainable since Odoo 11.0.
+This module is not maintained since Odoo 11.0.
 
 Tested on Odoo 10.0 e8b0c1db69f04b0f8391d7ee4848ccf576018bf3
