@@ -44,4 +44,4 @@ Fix: https://github.com/odoo-dev/odoo/commit/a4597fe34fcfa8dae28b156410080346bb3
 
 Maintainers
 -----------
-This module is not maintainable since Odoo 9.0, because lack of interests from customers.
+This module is not maintained since Odoo 9.0.
